@@ -21,3 +21,7 @@ The live deployment of this project can be found at : https://movie-recommender-
 
 ![image](https://user-images.githubusercontent.com/65590350/173230440-85f44876-3c60-4e66-a9af-e7e03048d7d2.png)
 
+![image](https://user-images.githubusercontent.com/65590350/173230486-5cb08054-f3dd-464f-8ad3-234b0c90a14b.png)
+
+![image](https://user-images.githubusercontent.com/65590350/173230517-c44f5668-a911-4e46-8213-fd737186a68b.png)
+
