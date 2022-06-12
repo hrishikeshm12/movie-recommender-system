@@ -19,3 +19,5 @@ Requirements for this project are :
 
 The live deployment of this project can be found at : https://movie-recommender-hrishikesh.herokuapp.com
 
+![image](https://user-images.githubusercontent.com/65590350/173230440-85f44876-3c60-4e66-a9af-e7e03048d7d2.png)
+
